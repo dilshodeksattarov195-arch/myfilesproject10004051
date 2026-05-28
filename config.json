@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrpdate",
+        "uuid": 15786747,
+        "checksum": "lpwth6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
